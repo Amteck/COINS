@@ -168,3 +168,9 @@ tr.bodyhead button:hover {
 *.unread {
     background-color: #fa6f6f;
 }
+table.root td a.treelink {
+  color: rgba(255,255,255,.9);
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 20.005px;
+}
