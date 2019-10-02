@@ -133,3 +133,14 @@ div.systemdialog div.ui-dialog-titlebar {
 div.ui-dialog-titlebar-buttonpane {
     background-color: transparent !important;
 }
+button.coinsok {
+  color: #fff !important;
+  background-color: #009688 !important;
+  border-color: #009688 !important;
+}
+button.coinscancel {
+  color: #fff!important;
+  background-color: #546e7a !important;
+  border-color: #546e7a !important;
+}
+
