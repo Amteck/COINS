@@ -123,3 +123,6 @@ div#selectors input#functionSearch {
 .sub-header-tracker, .tab-header-tracker, .nav-header-tracker {
     background-color: #5d6166;
 }
+TR.selected, TR.selected:hover {
+    background-color: #aeb0b3;
+}
