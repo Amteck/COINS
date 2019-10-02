@@ -95,3 +95,6 @@ tr.bodyhead th {
 table.browse th.current, table.browse th.scrollcurrent {
     background-color: #5d6166;
 }
+th.sortable:hover, th.scrollsortable:hover {
+    background-color: #5d6166;
+}
