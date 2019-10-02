@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
 
+body {
+  background-color: #f3f3f3;
+}
+
 div#treeView {
   background-color: #fff;
 }
@@ -33,7 +37,7 @@ TR.headertitle {
   align-items: center;
   margin: 0 auto;
   height: 70px;
-  background-color: #fb606f;
+  background-color: rgba(255, 255, 255, 1);
   -webkit-box-shadow: 0 5px 5px -3px rgba(0,0,0,0.15);
   box-shadow: 0 5px 5px -3px rgba(0,0,0,0.15);
   padding: 0 20px;
