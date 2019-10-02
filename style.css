@@ -27,6 +27,8 @@ a.treelink {
 }
 TD.treelink {
     padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
 }
 table.root td a.treelink {
   color: rgba(255,255,255,.9);
