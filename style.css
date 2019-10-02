@@ -159,3 +159,6 @@ table.browse th {
 div#selectors div#closeAll:hover {
     background-color: #9a9da0;
 }
+.menuheader, div#browsepopup div.title, div#userpopup div.title {
+  background-color: #343a40;
+}
