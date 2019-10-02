@@ -56,3 +56,6 @@ td.headertitle li:first-child {
 td.headertitle li:last-child {
     border-right: none;
 }
+td.headertitle span {
+  color: #ffffff; 
+}
