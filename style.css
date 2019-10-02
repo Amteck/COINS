@@ -50,3 +50,6 @@ td.headertitle li {
   border-top: none;
   border-bottom: none;
 }
+td.headertitle li:first-child {
+    border-left: none;
+}
