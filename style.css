@@ -12,4 +12,5 @@ table.root td a.treelink {
     -webkit-transition: all .5s;
     transition: all .5s;
     font-family: Sarabun,sans-serif;
+    font-weight: 400;
 }
