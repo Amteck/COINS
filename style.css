@@ -113,6 +113,7 @@ tr.headertitle button#hidemenu {
 }
 TD.treelinkhi {
   background-color: #5d6166;
+  padding: .75rem 1.25rem;
 }
 div#selectors div {
   background-color: #343a40;
