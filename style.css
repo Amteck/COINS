@@ -184,3 +184,6 @@ tr.bodyhead button:hover {
   background-color: rgba(0, 0, 0, 0.15);
   margin-bottom: 1px;
 }
+TD.treelink:hover {
+    background-color: #5d6166;
+}
