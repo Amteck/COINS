@@ -80,3 +80,10 @@ td.headertitle select {
     color: #787878;
     font-family: "Roboto",sans-serif;
 }
+
+/*Table Properties*/
+TR.odd, TR.matrixodd, TR.scrollodd {
+    background-color: #ededed;
+    color: #212529;
+    font-weight: 400;
+}
