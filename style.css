@@ -156,3 +156,6 @@ tr.bodyspan th.column-group {
 table.browse th {
     background-color: #343a40;
 }
+div#selectors div#closeAll:hover {
+    background-color: #9a9da0;
+}
