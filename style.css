@@ -41,7 +41,7 @@ TR.headertitle {
   -webkit-box-shadow: 0 5px 5px -3px rgba(0,0,0,0.15);
   box-shadow: 0 5px 5px -3px rgba(0,0,0,0.15);
   padding: 0 20px;
-  color: #ffffff;
+  color: #787878;
 }
 
 /*
@@ -71,5 +71,6 @@ td.headertitle li:last-child {
     border-right: none;
 }
 td.headertitle span {
-  color: #ffffff; 
+  color: #787878; 
+  font-family: "Roboto",sans-serif;
 }
