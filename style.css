@@ -53,3 +53,6 @@ td.headertitle li {
 td.headertitle li:first-child {
     border-left: none;
 }
+td.headertitle li:last-child {
+    border-right: none;
+}
