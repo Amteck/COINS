@@ -77,43 +77,46 @@ td.headertitle span {
   font-family: "Roboto",sans-serif;
 }
 td.headertitle select {
-    color: #787878;
-    font-family: "Roboto",sans-serif;
+  color: #787878;
+  font-family: "Roboto",sans-serif;
 }
 
 /*Table Properties*/
 TR.odd, TR.matrixodd, TR.scrollodd {
-    background-color: #ededed;
-    color: #212529;
-    font-weight: 400;
+  background-color: #ededed;
+  color: #212529;
+  font-weight: 400;
 }
 tr.bodyhead th {
-    background-color: #343a40;
-    font-size: .9em;
-    font-family: "Roboto",sans-serif;
+  background-color: #343a40;
+  font-size: .9em;
+  font-family: "Roboto",sans-serif;
 }
 table.browse th.current, table.browse th.scrollcurrent {
-    background-color: #5d6166;
+  background-color: #5d6166;
 }
 th.sortable:hover, th.scrollsortable:hover {
-    background-color: #5d6166;
+  background-color: #5d6166;
 }
 tr.headertitle button#hidemenu {
-    background-color: #5d6166;
+  background-color: #5d6166;
 }
 TD.treelinkhi {
-    background-color: #5d6166;
+  background-color: #5d6166;
 }
 div#selectors div {
-    background-color: #343a40;
+  background-color: #343a40;
 }
 div.ui-layout-resizer-west-open {
-    background-image: none;
+  background-image: none;
 }
 TD.bodytitle {
-    background-color: #9a9da0;
+  background-color: #9a9da0;
 }
 div.homepage tr.colhead th, div.homepage tr.colhead th {
-    background-color: #9a9da0;
+  background-color: #9a9da0;
 }
-
+div#selectors input#functionSearch {
+  font-family: "Roboto",sans-serif;
+  font-weight: 500;
+}
