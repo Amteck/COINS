@@ -120,3 +120,6 @@ div#selectors input#functionSearch {
   font-family: "Roboto",sans-serif;
   font-weight: 500;
 }
+.sub-header-tracker, .tab-header-tracker, .nav-header-tracker {
+    background-color: #5d6166;
+}
