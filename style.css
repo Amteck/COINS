@@ -55,11 +55,10 @@ div#logo img {
   width: 150px;
 }
 
+/*
 td.headertitle li span:before, td.headertitle li span:after, td.headertitle li.link:hover span:before, td.headertitle li.link:hover span:after {
   background-image: none;
 }
-
-/*
 td.headertitle li {
   border-top: none;
   border-bottom: none;
