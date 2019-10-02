@@ -44,6 +44,15 @@ TR.headertitle {
 
 table.treeitems img {
   content: none;
+  display: block;
+  color: #FFFFFF;
+  text-align: center;
+  width: 8px !important;
+  height: 8px;
+  font-size: 8px;
+  padding: 1px;
+  border-radius: 50%;
+  background-color: #fa6f6f;
 }
 
 div#logo img {
