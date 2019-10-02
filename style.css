@@ -10,6 +10,7 @@ table.root td a.treelink {
     font-size: 14.5px;
     -webkit-transition: all .4s;
     transition: all .4s;
+    font-weight: 400;
     font-family: "Roboto",sans-serif;
 }
 a.treelink {
@@ -19,5 +20,6 @@ a.treelink {
     font-size: 14.5px;
     -webkit-transition: all .4s;
     transition: all .4s;
+    font-weight: 400;
     font-family: "Roboto",sans-serif;
 }
