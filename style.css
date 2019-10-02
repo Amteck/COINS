@@ -124,5 +124,6 @@ div#selectors input#functionSearch {
     background-color: #5d6166;
 }
 TR.activerow:hover, TR.hover {
-    background-color: #24292d;
+  background-color: #24292d;
+  color: #ffffff;
 }
