@@ -160,3 +160,10 @@ tr.bodyhead button:hover {
 *.unread {
     background-color: #fa6f6f;
 }
+.subtree {
+  width: 100%;
+  box-sizing: border-box;
+  background-color: rgba(0, 0, 0, 0.15);
+  margin-bottom: 1px;
+  display: none;
+}
