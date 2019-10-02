@@ -42,6 +42,10 @@ TR.headertitle {
   color: #787878;
 }
 
+table.treeitems img {
+  content: none;
+}
+
 div#logo img {
   content: url("https://amteck.com/wp-content/uploads/2016/10/amteck_weblogo2.png");
   height: 54px;
