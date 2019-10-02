@@ -107,3 +107,6 @@ TD.treelinkhi {
 div#selectors div {
     background-color: #343a40;
 }
+div.ui-layout-resizer-west-open {
+    background-image: none;
+}
