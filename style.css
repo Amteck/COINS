@@ -7,12 +7,15 @@ body {
 table.treeitems {
     width: 100%;
 }
-td.treelink:after {
+
+
+table.treeitems.root tbody tr td a.treelink:after {
     content: ">";
     color: #fff;
     text-align: right;
     float: right;
 }
+
 td.menu-opener {
     display: none;
 }
