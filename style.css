@@ -98,3 +98,6 @@ table.browse th.current, table.browse th.scrollcurrent {
 th.sortable:hover, th.scrollsortable:hover {
     background-color: #5d6166;
 }
+tr.headertitle button#hidemenu {
+    background-color: #5d6166;
+}
