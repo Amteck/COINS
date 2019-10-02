@@ -6,7 +6,7 @@ body {
 }
 
 div#treeView {
-  background-color: #fff;
+  background-color: #263238;
 }
 table.root td a.treelink {
   display: block;
