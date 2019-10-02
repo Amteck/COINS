@@ -8,25 +8,17 @@ body {
 div#treeView {
   background-color: #263238;
 }
-table.root td a.treelink {
-  display: block;
-  padding: .65rem 1.5rem;
-  color: #747a80;
-  font-size: 14.5px;
-  -webkit-transition: all .4s;
-  transition: all .4s;
-  font-weight: 400;
-  font-family: "Roboto",sans-serif;
-}
 a.treelink {
-  display: block;
-  padding: .65rem 1.5rem;
-  color: #747a80;
-  font-size: 14.5px;
-  -webkit-transition: all .4s;
-  transition: all .4s;
-  font-weight: 400;
-  font-family: "Roboto",sans-serif;
+  color: rgba(255,255,255,.9);
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 20.005px;
+}
+table.root td a.treelink {
+  color: rgba(255,255,255,.9);
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 20.005px;
 }
 TR.headertitle {
   display: flex;
@@ -167,10 +159,4 @@ tr.bodyhead button:hover {
 }
 *.unread {
     background-color: #fa6f6f;
-}
-table.root td a.treelink {
-  color: rgba(255,255,255,.9);
-  font-size: 13px;
-  font-weight: 500;
-  line-height: 20.005px;
 }
