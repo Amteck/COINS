@@ -165,3 +165,6 @@ div#selectors div#closeAll:hover {
 tr.bodyhead button:hover {
     background-color: #5d6166;
 }
+*.unread {
+    background-color: #fa6f6f;
+}
