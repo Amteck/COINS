@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Sarabun&display=swap');
 
 div#treeView {
-  background-color: #fff !important;
+  background-color: #fff;
 }
 table.root td a.treelink {
     color: #8699ad;
