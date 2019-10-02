@@ -143,4 +143,16 @@ button.coinscancel {
   background-color: #546e7a !important;
   border-color: #546e7a !important;
 }
-
+tr.bodyspan th.column-group {
+  background: #938953;
+  background: -moz-linear-gradient(left, #343a40 0%, #9a9da0 100%);
+  background: -webkit-gradient(left top, right top, color-stop(0%, #343a40), color-stop(100%, #9a9da0));
+  background: -webkit-linear-gradient(left, #343a40 0%, #9a9da0 100%);
+  background: -o-linear-gradient(left, #343a40 0%, #9a9da0 100%);
+  background: -ms-linear-gradient(left, #343a40 0%, #9a9da0 100%);
+  background: linear-gradient(to right, #343a40 0%, #9a9da0 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#343a40', endColorstr='#9a9da0', GradientType=1 );
+}
+table.browse th {
+    background-color: #343a40;
+}
