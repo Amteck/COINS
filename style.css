@@ -13,6 +13,9 @@ td.treelink:after {
     text-align: right;
     float: right;
 }
+td.menu-opener {
+    display: none;
+}
 div#treeView {
   background-color: #263238;
 }
