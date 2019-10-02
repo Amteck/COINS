@@ -8,9 +8,6 @@ body {
 div#treeView {
   background-color: #263238;
 }
-TD.treelink {
-  padding: .75rem 1.25rem;
-}
 a.treelink {
   color: rgba(255,255,255,.9);
   font-size: 13px;
@@ -47,23 +44,15 @@ TR.headertitle {
 
 table.treeitems img {
   content: none;
-}
-#menuTree > div > table:nth-child(1) {
-  content: "";
-  font-family: icomoon;
-  display: inline-block;
-  font-size: 1rem;
-  vertical-align: middle;
-  line-height: 1;
-  position: absolute;
-  top: .75rem;
-  margin-top: .12502rem;
-  right: 1.25rem;
-  transition: -webkit-transform .25s ease-in-out;
-  transition: transform .25s ease-in-out;
-  transition: transform .25s ease-in-out,-webkit-transform .25s ease-in-out;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  display: block;
+  color: #FFFFFF;
+  text-align: center;
+  width: 8px !important;
+  height: 8px;
+  font-size: 8px;
+  padding: 1px;
+  border-radius: 50%;
+  background-color: #fa6f6f;
 }
 
 div#logo img {
@@ -189,7 +178,4 @@ tr.bodyhead button:hover {
   box-sizing: border-box;
   background-color: rgba(0, 0, 0, 0.15);
   margin-bottom: 1px;
-}
-TD.treelink:hover {
-    background-color: #5d6166;
 }
