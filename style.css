@@ -57,7 +57,6 @@ div#logo img {
 
 div#logo img {
   content: url("https://amteck.com/wp-content/uploads/2016/10/amteck_weblogo2.png");
-  background-color: #EEEEEE;
   height: 54px;
   width: 150px;
 }
@@ -78,4 +77,8 @@ td.headertitle li:last-child {
 td.headertitle span {
   color: #787878; 
   font-family: "Roboto",sans-serif;
+}
+td.headertitle select {
+    color: #787878;
+    font-family: "Roboto",sans-serif;
 }
