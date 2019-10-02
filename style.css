@@ -101,3 +101,6 @@ th.sortable:hover, th.scrollsortable:hover {
 tr.headertitle button#hidemenu {
     background-color: #5d6166;
 }
+TD.treelinkhi {
+    background-color: #5d6166;
+}
