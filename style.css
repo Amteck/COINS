@@ -19,12 +19,6 @@ div#treeView {
 TD.treelink {
     padding: .75rem 1.25rem;
 }
-a.treelink {
-  color: rgba(255,255,255,.9);
-  font-size: 13px;
-  font-weight: 500;
-  line-height: 20.005px;
-}
 table.root td a.treelink {
   color: rgba(255,255,255,.9);
   font-size: 13px;
