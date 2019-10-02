@@ -4,7 +4,9 @@ body {
   background: #ededed;
   font-family: "Roboto",sans-serif;
 }
-
+table.treeitems {
+    width: 100%;
+}
 div#treeView {
   background-color: #263238;
 }
