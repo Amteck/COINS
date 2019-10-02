@@ -39,6 +39,6 @@ TR.headertitle {
   padding: 0 20px;
 }
 
-.logo {
+div#logo img {
   display: none;
 }
