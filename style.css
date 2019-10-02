@@ -46,6 +46,10 @@ div#logo img {
 }
 */
 
+div#logo img {
+  content: url("https://amteck.com/wp-content/uploads/2017/08/amteck_weblogo5.png");
+}
+
 td.headertitle li span:before, td.headertitle li span:after, td.headertitle li.link:hover span:before, td.headertitle li.link:hover span:after {
   background-image: none;
 }
