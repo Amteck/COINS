@@ -110,3 +110,6 @@ div#selectors div {
 div.ui-layout-resizer-west-open {
     background-image: none;
 }
+TD.bodytitle {
+    background-color: #9a9da0;
+}
