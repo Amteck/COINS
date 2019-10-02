@@ -87,3 +87,11 @@ TR.odd, TR.matrixodd, TR.scrollodd {
     color: #212529;
     font-weight: 400;
 }
+tr.bodyhead th {
+    background-color: #343a40;
+    font-size: .9em;
+    font-family: "Roboto",sans-serif;
+}
+table.browse th.current, table.browse th.scrollcurrent {
+    background-color: #5d6166;
+}
