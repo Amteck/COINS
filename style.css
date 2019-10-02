@@ -127,3 +127,9 @@ TR.activerow:hover, TR.hover {
   background-color: #24292d;
   color: #ffffff;
 }
+div.systemdialog div.ui-dialog-titlebar {
+    background-color: #343a40;
+}
+div.ui-dialog-titlebar-buttonpane {
+    background-color: transparent !important;
+}
