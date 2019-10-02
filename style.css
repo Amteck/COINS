@@ -162,3 +162,6 @@ div#selectors div#closeAll:hover {
 .menuheader, div#browsepopup div.title, div#userpopup div.title {
   background-color: #343a40;
 }
+tr.bodyhead button:hover {
+    background-color: #5d6166;
+}
