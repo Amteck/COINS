@@ -4,6 +4,9 @@ body {
   background: #ededed;
   font-family: "Roboto",sans-serif;
 }
+div.documentation div#treeView {
+    background-color: #263238
+}
 table.treeitems {
     width: 100%;
 }
