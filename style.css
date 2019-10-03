@@ -9,7 +9,7 @@ div.documentation div#treeView {
 }
 
 
-/* Documentation Pages */
+/* Documentation Pages 
 div.documentation td.menu-opener {
   display: inline-block;
   content: none;
@@ -48,7 +48,7 @@ table.treeitems {
 div.documentation div.documentation div#noresults {
     color: #fff;
 }
-/* End Documentation Section */
+*/
 
 
 
