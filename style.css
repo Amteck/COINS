@@ -31,6 +31,8 @@ td.menu-opener {
   color: #fff;
   text-align: right;
   float: right;
+  width: 14px;
+  height: 14px;
 }
 div#treeView {
   background-color: #263238;
