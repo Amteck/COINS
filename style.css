@@ -7,8 +7,9 @@ body {
 table.treeitems {
     width: 100%;
 }
-
-
+div#noresults {
+    color: #fff;
+}
 td.menu-opener {
   display: inline-block;
   content: url('https://api.iconify.design/fa-solid:caret-right.svg?color=%23fff&width=14px&height=14px');
