@@ -80,20 +80,6 @@ TR.headertitle {
   padding: 0 20px;
   color: #787878;
 }
-/*
-table.treeitems img {
-  content: none;
-  display: block;
-  color: #FFFFFF;
-  text-align: center;
-  width: 8px !important;
-  height: 8px;
-  font-size: 8px;
-  padding: 1px;
-  border-radius: 50%;
-  background-color: #fa6f6f;
-}
-*/
 table.treeitems img {
   content: none;
   display: none;
@@ -133,8 +119,12 @@ tr.headertitle button#hidemenu {
   background-color: #5d6166;
 }
 TD.treelinkhi {
-  background-color: #5d6166;
+  background: #e7e7e7;
+  border-radius: 0.437rem;
   padding: .75rem 1.25rem;
+}
+td.treelinkhi a.treelink {
+  color: #667895;
 }
 div#selectors div {
   background-color: #343a40;
