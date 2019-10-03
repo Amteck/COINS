@@ -7,7 +7,9 @@ body {
 div.documentation div#treeView {
     background-color: #263238
 }
-
+div.documentation *.treelink, div.documentation *.treelinkhi, div.documentation *.treelink:visited, div.documentation td.treelinkhi a.treelink, div.documentation span.loading {
+    color: #fff;
+}
 table.treeitems {
     width: 100%;
 }
