@@ -7,17 +7,31 @@ body {
 table.treeitems {
     width: 100%;
 }
-
-
+/*
+table.subtree tbody tr td div table.treeitems tbody tr td a.treelink:after {
+    content: ">";
+    color: #fff;
+    text-align: right;
+    float: right;
+}
+*/
+/*
 table.treeitems.root tbody tr td a.treelink:after {
     content: ">";
     color: #fff;
     text-align: right;
     float: right;
 }
+*/
+
 
 td.menu-opener {
-    display: none;
+  display: inline-block;
+  content: ">";
+  color: #fff;
+  text-align: right;
+  float: right;
+  background-color: white;
 }
 div#treeView {
   background-color: #263238;
