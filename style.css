@@ -39,7 +39,7 @@ div.documentation table.root td a.treelink {
   color: rgba(255,255,255,.9);
   font-size: 13px;
   font-weight: 500;
-  /*line-height: 20.005px;*/
+  line-height: 20.005px;
 }
 div.documentation 
 table.treeitems {
