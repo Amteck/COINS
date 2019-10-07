@@ -1,11 +1,19 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
 
+
+/* Start */
 body {
   background: #ededed;
   font-family: "Roboto",sans-serif;
 }
+div.box div.boxinner iframe {
+    height: 256px;
+}
+div.box div.boxinner {
+  height: 300px;
+}
 table.treeitems {
-    width: 100%;
+  width: 100%;
 }
 div.systemconfirm div.ui-dialog-titlebar {
   background-color: #343a40;
