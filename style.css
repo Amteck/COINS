@@ -24,7 +24,7 @@ div.documentation a.treelink {
   height: 100%;
 }
 div.documentation td.treelinkhi a.treelink {
-  color: #667895; !important;
+  color: #667895 !important;
 }
 div.documentation table.root td a.treelink {
   color: rgba(255,255,255,.9);
