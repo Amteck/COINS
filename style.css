@@ -15,6 +15,9 @@ div.box div.boxinner {
 table.treeitems {
   width: 100%;
 }
+.styled-select select {
+  background-color: #fff !important;
+}
 div.systemconfirm div.ui-dialog-titlebar {
   background-color: #343a40;
 }
