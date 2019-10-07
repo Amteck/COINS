@@ -7,6 +7,9 @@ body {
 table.treeitems {
     width: 100%;
 }
+.sub-header div.tab, .tab-header div.tab, .sub-header div.groupselect, .tab-header div.tabmenu, .nav-header div.tab {
+  padding: 5px 10px 15px 10px;
+}
 div#noresults {
     color: #fff;
 }
