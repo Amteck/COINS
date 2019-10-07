@@ -23,11 +23,6 @@ div.documentation a.treelink {
   width: 100%;
   height: 100%;
 }
-div.documentation TD.treelink {
-  padding: .75rem 1.25rem;
-  display: flex;
-  align-items: center;
-}
 div.documentation table.root td a.treelink {
   color: rgba(255,255,255,.9);
   font-size: 13px;
