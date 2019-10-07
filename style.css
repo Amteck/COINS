@@ -1,6 +1,15 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
 
 
+/*Documentation */
+div.documentation *.treelink, div.documentation *.treelinkhi, div.documentation *.treelink:visited, div.documentation td.treelinkhi a.treelink, div.documentation span.loading {
+  color: #ffffff !important;
+}
+div.documentation div#treeView {
+  background-color: #263238;
+}
+
+
 /* Start */
 body {
   background: #ededed;
