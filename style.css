@@ -10,6 +10,9 @@ table.treeitems {
 div#noresults {
     color: #fff;
 }
+TR.odd TD, TR.even TD {
+  font-weight: normal;
+}
 td.menu-opener {
   display: inline-block;
   content: url('https://api.iconify.design/fa-solid:caret-right.svg?color=%23fff&width=14px&height=14px');
