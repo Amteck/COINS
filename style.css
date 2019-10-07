@@ -30,6 +30,13 @@ div.documentation table.root td a.treelink {
   /*line-height: 20.005px;*/
 }
 
+div.documentation table.treeitems img {
+    height: 24px;
+    width: 24px;
+    display: inline-block;
+    content: url(https://api.iconify.design/fa-solid:caret-right.svg?color=%23fff&width=14px&height=14px);
+    float: right;
+}
 
 
 
