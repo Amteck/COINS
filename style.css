@@ -10,6 +10,12 @@ table.treeitems {
 div.systemconfirm div.ui-dialog-titlebar {
   background-color: #343a40;
 }
+table.diary th {
+  background-color: #343a40;
+}
+table.diary div.diary-column {
+    border: 1px solid #343a40;
+}
 table.popuplist th {
   background-color: #343a40;
   border-color: #343a40;
