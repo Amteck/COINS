@@ -62,9 +62,9 @@ div.box div.boxinner iframe {
     height: 256px;
 }
 div.sectionbarheader:hover {
-  background-color: #938953;
+  background-color: #5d6166;
 }
-div.sectionbarheader h2 {
+div.sectionbarheader h2:hover {
   color: #fff;
 }
 div.box div.boxinner {
