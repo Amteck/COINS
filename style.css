@@ -61,6 +61,12 @@ body {
 div.box div.boxinner iframe {
     height: 256px;
 }
+div.sectionbarheader:hover {
+  background-color: #938953;
+}
+div.sectionbarheader h2 {
+  color: #fff;
+}
 div.box div.boxinner {
   height: 300px;
 }
