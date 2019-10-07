@@ -16,6 +16,9 @@ div#noresults {
 TR.odd TD, TR.even TD {
   font-weight: normal;
 }
+div.desktop {
+  top: 112px !important;
+}
 td.menu-opener {
   display: inline-block;
   content: url('https://api.iconify.design/fa-solid:caret-right.svg?color=%23fff&width=14px&height=14px');
