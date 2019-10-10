@@ -129,6 +129,10 @@ a#desktop {
   content: url('https://api.iconify.design/ic:sharp-print.svg?color=%235D6166&height=24');
   vertical-align: -0.125em;
 }
+.globalsearch {
+  content: url('https://api.iconify.design/ic:baseline-search.svg?color=%235D6166&height=24');
+  vertical-align: -0.125em;
+}
 .report {
   background-color: #263238;
 }
