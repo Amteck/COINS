@@ -121,18 +121,7 @@ td.menu-opener {
   height: 14px;
   padding: .5rem 1.25rem;
 }
-a#desktop {
-  content: url('https://api.iconify.design/ic:round-desktop-windows.svg?&height=24');
-  vertical-align: -0.125em;
-}
-.reportStatusImg {
-  content: url('https://api.iconify.design/ic:sharp-print.svg?&height=24');
-  vertical-align: -0.125em;
-}
-.globalsearch {
-  content: url('https://api.iconify.design/ic:baseline-search.svg?&height=24');
-  vertical-align: -0.125em;
-}
+
 .report {
   background-color: #263238;
 }
