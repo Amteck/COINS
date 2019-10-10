@@ -124,17 +124,17 @@ td.menu-opener {
 
 
 a#desktop {
-  content: url('https://api.iconify.design/octicon:device-desktop.svg?color=%235D6166&height=16');
+  content: url('https://api.iconify.designic:round-desktop-windows.svg?color=%235D6166&height=16');
   vertical-align: -0.125em;
 }
 #globalsearch > img {
-    content: url(https://api.iconify.design/octicon:device-desktop.svg?color=%235D6166&height=16);
+    content: url(https://api.iconify.design/ic:baseline-search.svg?color=%235D6166&height=16);
     vertical-align: -0.125em;
     height: auto;
     width: auto;
 }
 #reportStatusImg {
-  content: url('https://api.iconify.design/octicon:device-desktop.svg?color=%235D6166&height=16');
+  content: url('https://api.iconify.design/ic:outline-print.svg?color=%235D6166&height=16');
   vertical-align: -0.125em;
 }
 div#reports img {
