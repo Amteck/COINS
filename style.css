@@ -121,10 +121,21 @@ td.menu-opener {
   height: 14px;
   padding: .5rem 1.25rem;
 }
+
+
 a#desktop {
   content: url('https://api.iconify.design/octicon:device-desktop.svg?color=%235D6166&height=16');
   vertical-align: -0.125em;
 }
+button#globalsearch {
+  content: url('https://api.iconify.design/octicon:device-desktop.svg?color=%235D6166&height=16');
+  vertical-align: -0.125em;
+}
+a#reportStatus {
+  content: url('https://api.iconify.design/octicon:device-desktop.svg?color=%235D6166&height=16');
+  vertical-align: -0.125em;
+}
+
 div#treeView {
   background-color: #263238;
 }
