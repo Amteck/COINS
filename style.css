@@ -169,6 +169,10 @@ button#reload {
 
 div#treeView {
   background-color: #263238;
+  margin-top: 15px;
+}
+div.ui-layout-west {
+  background-color: #263238;
 }
 a.treelink {
   color: rgba(255,255,255,.9);
