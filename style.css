@@ -28,6 +28,9 @@ div.taskbarinner {
 div.box div.boxinner iframe {
     height: 256px;
 }
+img#button4:hover {
+    filter: invert(1);
+}
 div.sectionbarheader:hover {
   background-color: #5d6166;
 }
