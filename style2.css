@@ -1,11 +1,11 @@
 .logos .custlogo {
-  content: url(https://i.imgur.com/A3N3sPz.png);
+  content: url("images/logo2.png");
 }
 .logos .logo {
   display: none;
 }
 div#logo img {
   content: url("images/logo1.png");
-  height: 54px;
-  width: 150px;
+  height: 44px;
+  width: 140px;
 }
