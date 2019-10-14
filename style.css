@@ -28,9 +28,6 @@ div.taskbarinner {
 div.box div.boxinner iframe {
     height: 256px;
 }
-TR.activerow:hover td img#button4 {
-    filter: invert(1);
-}
 div.sectionbarheader:hover {
   background-color: #5d6166;
 }
@@ -243,7 +240,7 @@ div#selectors input#functionSearch {
     background-color: #5d6166;
 }
 TR.activerow:hover, TR.hover {
-  background-color: #24292d;
+  background-color: #5E6870;
   color: #ffffff;
 }
 div.systemdialog div.ui-dialog-titlebar {
