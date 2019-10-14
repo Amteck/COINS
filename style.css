@@ -120,8 +120,9 @@ button#action:delete {
 button#reload {
   content: url('https://api.iconify.design/ic:baseline-refresh.svg?color=%235D6166&height=16');
 }
-
-
+div#menuTree {
+    margin-bottom: 50px;
+}
 div#treeView {
   background-color: #263238;
   margin-top: 15px;
@@ -149,7 +150,6 @@ table.root td a.treelink {
   color: rgba(255,255,255,.9);
   font-size: 13px;
   font-weight: 500;
-  /*line-height: 20.005px;*/
 }
 TR.headertitle {
   display: flex;
