@@ -150,7 +150,7 @@ table.root td a.treelink {
 }
 TR.headertitle {
   display: flex;
-  -ms-flex-pack: justify;
+  -ms-flex-pack: justify;g
   -webkit-box-pack: justify;
   justify-content: space-between;
   -webkit-box-align: center;
@@ -182,8 +182,6 @@ td.headertitle select {
   color: #787878;
   font-family: "Roboto",sans-serif;
 }
-
-/*Table Properties*/
 TR.odd, TR.matrixodd, TR.scrollodd {
   background-color: #ededed;
   color: #212529;
