@@ -28,7 +28,7 @@ div.taskbarinner {
 div.box div.boxinner iframe {
     height: 256px;
 }
-img#button4:hover {
+TR.activerow:hover td img#button4 {
     filter: invert(1);
 }
 div.sectionbarheader:hover {
