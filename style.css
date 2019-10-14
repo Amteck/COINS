@@ -138,6 +138,9 @@ a.treelink {
   width: 100%;
   height: 100%;
 }
+.treeitems > tbody > tr > td:nth-child(1) {
+    width: 24px;
+}
 TD.treelink {
   padding: .75rem 1.25rem;
   display: flex;
