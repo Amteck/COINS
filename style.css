@@ -18,7 +18,7 @@ div.taskbar.open div.taskbarinnerwrapper {
   display: none;
 }
 table.headertitle {
-  position: sticky;
+  position: fixed;
 }
 div.box {
   border-radius: 4px !important;
