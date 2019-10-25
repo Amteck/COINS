@@ -7,10 +7,7 @@ body {
   background: #ededed;
   font-family: "Roboto",sans-serif;
 }
-div.taskbar.open div.taskbarinnerwrapper {
-  display: flex;
-  justify-content: center;
-}
+
 .logos .custlogo {
   content: url(https://i.imgur.com/A3N3sPz.png);
 }
