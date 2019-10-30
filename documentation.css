@@ -41,11 +41,14 @@ div.documentation td.treelinkhi {
   color: #667895;
   font-family: "Roboto",sans-serif;
 }
-div.documentation td.menu-opener {
+/* div.documentation td.menu-opener {
   display: inline-block;
   content: url('https://api.iconify.design/fa-solid:caret-right.svg?color=%23fff&width=14px&height=14px');
   float: right;
   width: 14px;
   height: 14px;
   padding: .5rem 1.25rem;
+} */
+div.documentation table.treeitems img {
+  filter: invert(79%) sepia(26%) saturate(3494%) hue-rotate(180deg) brightness(88%) contrast(78%);
 }
