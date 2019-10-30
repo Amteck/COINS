@@ -40,6 +40,7 @@ div.documentation td.treelinkhi {
   padding: 0px;
   color: #667895;
   font-family: "Roboto",sans-serif;
+  width: 100%;
 }
 /* div.documentation td.menu-opener {
   display: inline-block;
