@@ -28,12 +28,12 @@ div.documentation table.root td a.treelink {
   font-size: 13px;
   font-weight: 500;
 }
-div.documentation table.treeitems img {
+/* div.documentation table.treeitems img {
   height: 24px;
   width: 24px;
   display: none;
   float: right;
-}
+} */
 div.documentation td.treelinkhi {
   background: #e7e7e7;
   border-radius: 0.437rem;
