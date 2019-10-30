@@ -82,6 +82,9 @@ div.desktop {
   height: 14px;
   padding: .5rem 1.25rem;
 } */
+table.treeitems img {
+  filter: invert(79%) sepia(26%) saturate(3494%) hue-rotate(180deg) brightness(88%) contrast(78%);
+}
 
 
 a#desktop {
