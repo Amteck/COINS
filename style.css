@@ -74,14 +74,14 @@ TR.odd TD, TR.even TD {
 div.desktop {
   top: 112px !important;
 }
-td.menu-opener {
+/* td.menu-opener {
   display: inline-block;
   content: url('https://api.iconify.design/fa-solid:caret-right.svg?color=%23fff&width=14px&height=14px');
   float: right;
   width: 14px;
   height: 14px;
   padding: .5rem 1.25rem;
-}
+} */
 
 
 a#desktop {
