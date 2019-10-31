@@ -22,6 +22,7 @@ div.box {
 }
 div.taskbarinner {
   background-color: transparent;
+  position: fixed;
 }
 /* div.box div.boxinner iframe {
     height: 256px;
