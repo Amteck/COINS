@@ -23,9 +23,9 @@ div.box {
 div.taskbarinner {
   background-color: transparent;
 }
-div.box div.boxinner iframe {
+/* div.box div.boxinner iframe {
     height: 256px;
-}
+} */
 div.sectionbarheader:hover {
   background-color: #5d6166;
 }
