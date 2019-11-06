@@ -9,3 +9,7 @@ div#logo img {
   height: 44px;
   width: 140px;
 }
+
+body > div.logos > img.logo {
+  display: none;
+}
