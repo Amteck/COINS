@@ -9,7 +9,7 @@ body {
 }
 
 .logos .custlogo {
-  content: url(https://i.imgur.com/A3N3sPz.png);
+  content: url(https://amteck.github.io/documentation/images/logo.png);
 }
 .logos .logo {
   display: none;
@@ -183,10 +183,11 @@ TR.headertitle {
   color: #787878;
 }
 div#logo img {
-  content: url("https://amteck.github.io/documentation/images/logo.png");
-  height: 54px;
-  width: 150px;
+    content: url(https://amteck.github.io/documentation/images/logo.png);
+    height: 46px;
+    width: 116px;
 }
+
 td.headertitle span {
   color: #787878;
   font-family: "Roboto",sans-serif;
