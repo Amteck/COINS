@@ -5,7 +5,7 @@
   display: none;
 }
 div#logo img {
-  content: url("images/logo1.png");
+  content: url("https://amteck.github.io/documentation/images/logo.png");
   height: 44px;
   width: 140px;
 }
