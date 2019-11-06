@@ -47,9 +47,9 @@ div.ui-layout-west td {
 div.ui-layout-west td:hover {
   color: #333333;
 }
-.styled-select select {
+/* .styled-select select {
   background-color: #fff !important;
-}
+} */
 div.systemconfirm div.ui-dialog-titlebar {
   background-color: #343a40;
 }
