@@ -23,10 +23,10 @@ div.box {
   -webkit-box-shadow: 0px 0px 13px 0px rgba(82, 63, 105, 0.05) !important;
   box-shadow: 0px 0px 13px 0px rgba(82, 63, 105, 0.05) !important;
 }
-div.taskbarinner {
+/* div.taskbarinner {
   background-color: transparent;
   position: fixed;
-}
+} */
 /* div.box div.boxinner iframe {
     height: 256px;
 } */
