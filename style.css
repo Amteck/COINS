@@ -95,38 +95,6 @@ table.treeitems img {
 }
 
 
-a#desktop {
-    background: url('https://api.iconify.design/ic:outline-desktop-windows.svg?color=%235D6166&height=18');
-    vertical-align: -0.125em;
-    display: block;
-    height: 18px;
-    width: 18px;
-    padding-left: 18px;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-}
-#globalsearch > img {
-
-    background: url('https://api.iconify.design/ic:baseline-search.svg?color=%235D6166&height=18');
-    vertical-align: -0.125em;
-    display: block;
-    height: 18px;
-    width: 18px;
-    padding-left: 18px;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-
-}
-#reportStatusImg {
-  background: url('https://api.iconify.design/ic:outline-print.svg?color=%235D6166&height=18');
-  vertical-align: -0.125em;
-  display: block;
-  height: 18px;
-  width: 18px;
-  padding-left: 18px;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-}
 div#reports img {
   height: auto;
   width: auto;
