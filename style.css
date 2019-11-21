@@ -9,7 +9,7 @@ body {
 }
 
 .logos .custlogo {
-  content: url(https://amteck.github.io/documentation/images/logo.png);
+  content: url(https://i.imgur.com/6ZTllYd.png);
 }
 .logos .logo {
   display: none;
@@ -190,7 +190,7 @@ TR.headertitle {
   color: #787878;
 }
 div#logo img {
-    content: url(https://amteck.github.io/documentation/images/logo.png);
+    content: url('https://i.imgur.com/6ZTllYd.png');
     height: 46px;
     width: 116px;
 }
