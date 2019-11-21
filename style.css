@@ -189,10 +189,23 @@ TR.headertitle {
   padding: 0 20px;
   color: #787878;
 }
-div#logo img {
+
+
+/* div#logo img {
     content: url('https://i.imgur.com/6ZTllYd.png');
     height: 46px;
     width: 116px;
+} */
+
+div#logo img {
+  display: block;
+  background: url('https://i.imgur.com/6ZTllYd.png');
+  background-size: 116px 46px;
+  height: 46px;
+  width: 116px;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding-left: 116px;
 }
 
 td.headertitle span {
