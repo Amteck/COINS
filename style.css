@@ -27,13 +27,6 @@ div.box {
     color: #333;
     font-weight: 800;
 }
-/* div.taskbarinner {
-  background-color: transparent;
-  position: fixed;
-} */
-/* div.box div.boxinner iframe {
-    height: 256px;
-} */
 div.sectionbarheader:hover {
   background-color: #5d6166;
 }
@@ -54,9 +47,6 @@ div.ui-layout-west td {
 div.ui-layout-west td:hover {
   color: #333333;
 }
-/* .styled-select select {
-  background-color: #fff !important;
-} */
 div.systemconfirm div.ui-dialog-titlebar {
   background-color: #343a40;
 }
@@ -82,43 +72,10 @@ TR.odd TD, TR.even TD {
 div.desktop {
   top: 112px !important;
 }
-/* td.menu-opener {
-  display: inline-block;
-  content: url('https://api.iconify.design/fa-solid:caret-right.svg?color=%23fff&width=14px&height=14px');
-  float: right;
-  width: 14px;
-  height: 14px;
-  padding: .5rem 1.25rem;
-} */
 table.treeitems img {
   filter: invert(79%) sepia(26%) saturate(3494%) hue-rotate(180deg) brightness(88%) contrast(78%);
 }
 
- /*
-button#print {
-    content: url(https://api.iconify.design/ic:outline-print.svg?color=%235D6166&height=16);
-}
-button#showall {
-  content: url('https://api.iconify.design/ic:baseline-menu.svg?color=%235D6166&height=16');
-}
-button#add {
-  content: url('https://api.iconify.design/ic:baseline-plus.svg?color=%23A7DB9E&height=16');
-}
-button#action:copy::load {
-  content: url('https://api.iconify.design/ic:outline-content-copy.svg?color=%235D6166&height=16');
-}
-button#action:open::load {
-  content: url('https://api.iconify.design/ic:outline-folder-open.svg?color=%235D6166&height=16');
-}
-button#toggleBulk {
-  content: url('https://api.iconify.design/ic:sharp-check.svg?color=%235D6166&height=16');
-}
-button#action:delete {
-  content: url('https://api.iconify.design/ic:outline-cancel.svg?color=%23F4928B&height=16');
-}
-button#reload {
-  content: url('https://api.iconify.design/ic:baseline-refresh.svg?color=%235D6166&height=16');
-} */
 div#menuTree {
     margin-bottom: 50px;
 }
@@ -171,14 +128,6 @@ TR.headertitle {
   padding: 0 20px;
   color: #787878;
 }
-
-
-/* div#logo img {
-    content: url('https://i.imgur.com/6ZTllYd.png');
-    height: 46px;
-    width: 116px;
-} */
-
 div#logo img {
   display: block;
   background: url('https://i.imgur.com/6ZTllYd.png');

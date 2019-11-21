@@ -5,9 +5,14 @@
   display: none;
 }
 div#logo img {
-  content: url("https://amteck.github.io/documentation/images/logo.png");
-  height: 44px;
-  width: 140px;
+  display: block;
+  background: url('https://i.imgur.com/6ZTllYd.png');
+  background-size: 116px 46px;
+  height: 46px;
+  width: 116px;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding-left: 116px;
 }
 
 body > div.logos > img.logo {
