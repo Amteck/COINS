@@ -94,11 +94,6 @@ table.treeitems img {
   filter: invert(79%) sepia(26%) saturate(3494%) hue-rotate(180deg) brightness(88%) contrast(78%);
 }
 
-
-div#reports img {
-  height: auto;
-  width: auto;
- }
  /*
 button#print {
     content: url(https://api.iconify.design/ic:outline-print.svg?color=%235D6166&height=16);
