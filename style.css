@@ -96,23 +96,42 @@ table.treeitems img {
 
 
 a#desktop {
-  content: url('https://api.iconify.design/ic:outline-desktop-windows.svg?color=%235D6166&height=18');
-  vertical-align: -0.125em;
+    background: url('https://api.iconify.design/ic:outline-desktop-windows.svg?color=%235D6166&height=18');
+    vertical-align: -0.125em;
+    display: block;
+    height: 18px;
+    width: 18px;
+    padding-left: 18px;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
 }
 #globalsearch > img {
-    content: url('https://api.iconify.design/ic:baseline-search.svg?color=%235D6166&height=18');
+
+    background: url('https://api.iconify.design/ic:baseline-search.svg?color=%235D6166&height=18');
     vertical-align: -0.125em;
-    height: auto;
-    width: auto;
+    display: block;
+    height: 18px;
+    width: 18px;
+    padding-left: 18px;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+
 }
 #reportStatusImg {
-  content: url('https://api.iconify.design/ic:outline-print.svg?color=%235D6166&height=18');
+  background: url('https://api.iconify.design/ic:outline-print.svg?color=%235D6166&height=18');
   vertical-align: -0.125em;
+  display: block;
+  height: 18px;
+  width: 18px;
+  padding-left: 18px;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
 }
 div#reports img {
   height: auto;
   width: auto;
-}
+ }
+ /*
 button#print {
     content: url(https://api.iconify.design/ic:outline-print.svg?color=%235D6166&height=16);
 }
@@ -136,7 +155,7 @@ button#action:delete {
 }
 button#reload {
   content: url('https://api.iconify.design/ic:baseline-refresh.svg?color=%235D6166&height=16');
-}
+} */
 div#menuTree {
     margin-bottom: 50px;
 }
