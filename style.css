@@ -8,6 +8,13 @@ body {
   font-family: "Roboto",sans-serif;
 }
 
+div.ui-tooltip-content{
+    border:solid 1px #67A3C7 !important;
+    background-color: #67A3C7 !important;
+    color: #ffffff !important;
+    padding:3px 6px !important;
+}
+
 .logos .custlogo {
   content: url(https://i.imgur.com/6ZTllYd.png);
 }
