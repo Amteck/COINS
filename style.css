@@ -43,6 +43,10 @@ div.sectionbarheader h2:hover {
 div.box div.boxinner {
   height: 300px;
 }
+div.box div.boxinner iframe{
+  height: 280px;
+  border: none;
+}
 table.treeitems {
   width: 100%;
 }
@@ -116,7 +120,7 @@ table.root td a.treelink {
 }
 TR.headertitle {
   display: flex;
-  -ms-flex-pack: justify;g
+  -ms-flex-pack: justify;
   -webkit-box-pack: justify;
   justify-content: space-between;
   -webkit-box-align: center;
